@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mailto:jmiranda11@hawk.iit.edu**
 
-- 📄 Know about my experiences [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://joelmiranda26.github.io/Portfolio/Joel_Resume11.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://joelmiranda26.github.io/Portfolio/Joel_Resume11.pdf)
+- 📄 Know about my experiences https://joelmiranda26.github.io/Portfolio/Joel_Resume11.pdf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
