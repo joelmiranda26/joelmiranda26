@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Master's in Information Technology and Management**
 
-- 👨‍💻 All of my projects are available in my Portfolio [[https://joelmiranda26.github.io/Portfolio/](https://joelmiranda26.github.io/Portfolio/)](https://portfolio-ten-puce-21.vercel.app/)
+- 👨‍💻 All of my projects are available in my Portfolio [https://joelmiranda26.github.io/Portfolio/](https://joelmiranda26.github.io/Portfolio/)
 
 - 📫 How to reach me **mailto:jmiranda11@hawk.iit.edu**
 
