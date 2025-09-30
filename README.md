@@ -5,10 +5,10 @@ Currently pursuing an MS in Information Technology and Management at Illinois Te
 Passionate about data engineering, system integration, and solving complex business problems with technology.
 </h3>
 
-- 🌱 Currently pursuing **Master's in Information Technology and Management** at Illinois Tech  
-- 👨‍💻 Check out my projects: [Portfolio](https://portfolio-ten-puce-21.vercel.app/)  
+- 🌱 **Master's in Information Technology and Management** at Illinois Tech  
+--- 👨‍💻 Check out my projects: [Portfolio](https://portfolio-ten-puce-21.vercel.app/)  
 - 📄 View my resume: [Joel Miranda Resume](https://portfolio-ten-puce-21.vercel.app/Joel_Resume.pdf)  
-- 📫 Reach me at: **jmiranda11@hawk.iit.edu**  
+- 📫 Reach me at: **joel.miranda2025@outlook.com**  
 
 ---
 
