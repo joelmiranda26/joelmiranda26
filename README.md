@@ -5,16 +5,15 @@ Currently pursuing an MS in Information Technology and Management at Illinois Te
 Passionate about data engineering, system integration, and solving complex business problems with technology.
 </h3>
 
-- 🌱 **Master's in Information Technology and Management** at Illinois Tech  
---- 👨‍💻 Check out my projects: [Portfolio](https://portfolio-ten-puce-21.vercel.app/)  
-- 📄 View my resume: [Joel Miranda Resume](https://portfolio-ten-puce-21.vercel.app/Joel_Resume.pdf)  
+- 🌱 **Master's in Information Technology and Management** at Illinois Tech- 👨‍💻 Check out my projects: [Portfolio](https://portfolio-ten-puce-21.vercel.app/)  
+<!-- - 📄 View my resume: [Joel Miranda Resume](https://portfolio-ten-puce-21.vercel.app/Joel_Resume.pdf)  
 - 📫 Reach me at: **joel.miranda2025@outlook.com**  
-
+-->
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/joel-miranda-4159801a1/" target="blank">
+<a href="https://www.linkedin.com/in/joyyforever/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joel Miranda LinkedIn" height="30" width="40" />
 </a>
 </p>
